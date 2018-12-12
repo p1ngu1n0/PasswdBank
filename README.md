@@ -10,11 +10,11 @@ este cuenta con un generador de claves seguras.
 
 Para descargarlo usa:
 
-`git clone `
+`git clone https://github.com/p1ngu1n0/PasswdBank`
 
 Entra en el directorio:
 
-`cd `
+`cd PasswdBank`
 
 Para ejecutarlo usa:
 
