@@ -95,7 +95,7 @@ def cifrado():
 	f = open('src/pd.b64', 'r')
 	ff = f.read()
 
-	if ff is "":
+	if ff is " ":
 		f.close()
 		f = open('src/pd.b64', 'wb')
 		pwd = input("Nueva clave de acceso: ")
