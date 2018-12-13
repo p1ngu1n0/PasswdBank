@@ -25,7 +25,7 @@ Te pedira una clave para acceder, completa los formularios y listo!!!
 ## Opciones
 
 
-<img  width="100%" src="
+<img  width="720px" src="
 https://github.com/p1ngu1n0/PasswdBank/blob/master/img/img1.png" align="left"/>
 
 		
