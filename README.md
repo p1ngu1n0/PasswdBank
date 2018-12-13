@@ -34,7 +34,7 @@ Te pedira una clave para acceder, completa los formularios y listo!!!
 ## Contribuir
 Sigueme en mis redes sociales:
 
-<a href="https://www.instagram.com/_p1ngu1n0_/" target="_blank"><img  width="58" src="https://image.flaticon.com/icons/png/512/109/109404.png" />
+<a href="https://www.instagram.com/_p1ngu1n0_/" target="_blank"><img  width="58" src="https://image.flaticon.com/icons/png/512/109/109404.png" align="left"/>
 </p></a>
-<img  width="58" src="https://github.com/p1ngu1n0/PasswdBank/blob/master/img/qr.png" />
+<img  width="58" src="https://github.com/p1ngu1n0/PasswdBank/blob/master/img/qr.png" align="left"/>
 
