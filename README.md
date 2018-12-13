@@ -23,13 +23,11 @@ Para ejecutarlo usa:
 Te pedira una clave para acceder, completa los formularios y listo!!!
 
 ## Opciones
-        -gen   #Genera una clave segura
-        -add   #Añade una clave
-        -view  #Mira tus claves
-        -help  #Ayuda
-        -info  #Informacion
-        -clear #Limpiar
-        -exit  #Salir
+
+
+<img  width="100%" src="
+https://github.com/p1ngu1n0/PasswdBank/blob/master/img/img1.png" align="left"/>
+
 		
 ## Contribuir
 Sigueme en mis redes sociales:
