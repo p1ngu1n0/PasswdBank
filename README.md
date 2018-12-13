@@ -36,3 +36,5 @@ Sigueme en mis redes sociales:
 
 <a href="https://www.instagram.com/_p1ngu1n0_/" target="_blank"><img  width="58" src="https://image.flaticon.com/icons/png/512/109/109404.png" />
 </p></a>
+<img  width="58" src="https://github.com/p1ngu1n0/PasswdBank/blob/master/img/qr.png" />
+
