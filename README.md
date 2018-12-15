@@ -39,3 +39,8 @@ Sigueme en mis redes sociales:
 <input type="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGtSNI8Lp3161oYnkuOQ7HcsUgri9ihnyTkMJDhdTjTJvfPcHx" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/es_ES/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FP52HPYUVZ3YU&source=url
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FP52HPYUVZ3YU&source=url" target="_blank"><img  width="58" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGtSNI8Lp3161oYnkuOQ7HcsUgri9ihnyTkMJDhdTjTJvfPcHx" align="left"/>
+</p></a>
