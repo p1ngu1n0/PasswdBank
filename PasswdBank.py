@@ -119,12 +119,15 @@ def cifrado():
 
 	
 def visualizar():
-	print("(id, dominio, usuario, clave)")
-	c.execute("SELECT * FROM claves")
-	for reg in c:
-		print(P+''.join(str(reg))+W)
-
-
+        with con:
+                cur = con.cursor()
+                cur.execute('SELECT * FROM claves')
+                col_names = [cn[0] for cn in cur.description]
+                rows = cur.fetchall()
+                print("{:3} {:10} {:7} {:14}".format(col_names[0], col_names[1], col_names[2], col_names[3]))
+                for row in rows:
+                        print("{:<3} {:<10} {:7} {:14}".format(row[0], row[1], row[2], row[3]))
+                        
 def gen():
 	try:
 		ran = input("Numero de caracteres: ")
